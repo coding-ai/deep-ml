@@ -1,10 +1,9 @@
 # Matrix times Vector (easy)
 
-## Problem Description
+## [Problem Description](https://www.deep-ml.com/problem/Matrix%20times%20Vector)
 
 The goal is to compute the dot product between a matrix and a vector. This operation is possible when the number of columns in the matrix is equal to the number of elements in the vector. If the dimensions do not match, the function will return `-1` to indicate that the operation is not possible.
 
-[Link to problem](https://www.deep-ml.com/problem/Matrix%20times%20Vector)
 
 ## Dot Product Definition
 
